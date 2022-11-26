@@ -1,0 +1,27 @@
+{ 
+    "days": [
+        {"id": "Mon", "day": "Mon"},
+        {"id": "Tue", "day": "Tue"},
+        {"id": "Wed", "day": "Wed"},
+        {"id": "Thu", "day": "Thu"},
+        {"id": "Fri", "day": "Fri"},
+        {"id": "Sat", "day": "Sat"},
+        {"id": "Sun", "day": "Sun"}
+      ],
+
+    "plans": [
+        {"id": "Mon", "plan": "Mon - plan1" , "index" : "0491nfi2"},
+        {"id": "Tue", "plan": "Tue - plan1" , "index" : "0491nfi22"},
+        {"id": "Tue", "plan": "Tue - plna2" , "index" : "0491n1fi2"},
+        {"id": "Wed", "plan": "Wed - plan1" , "index" : "04191nfi2"},
+        {"id": "Wed", "plan": "Wed - plan2" , "index" : "0491nfi3422"},
+        {"id": "Thu", "plan": "Thu - plan1" , "index" : "0491nfi2112"},
+        {"id": "Fri", "plan": "Fri - plan1" , "index" : "0491n21fi2"},
+        {"id": "Sat", "plan": "Sat - plan1" , "index" : "0123491nfi2"},
+        {"id": "Sun", "plan": "Sun - plan1" , "index" : "0491nfieas2"}
+      ],
+
+    "name": [
+      {"username" : "" }
+    ]
+}
